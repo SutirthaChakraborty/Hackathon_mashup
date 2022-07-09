@@ -1,2 +1,8 @@
 pytube
 youtube-search-python
+librosa
+demucs
+ruptures
+msaf
+scipy==1.2
+youtube_dl
